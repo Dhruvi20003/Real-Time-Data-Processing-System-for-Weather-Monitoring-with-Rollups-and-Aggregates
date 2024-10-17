@@ -65,25 +65,6 @@ This project is a Python-based real-time weather monitoring system that fetches 
    python run.py
    ```
 
-## Project Structure
-Real-Time Data Processing System/
-├── src/
-│ ├── api/
-│ │ └── openweathermap.py
-│ ├── data/
-│ │ └── aggregator.py
-│ ├── alerts/
-│ │ └── alert_system.py
-│ ├── visualization/
-│ │ └── data_visualizer.py
-│ └── config/
-│ └── config.py
-├── tests/
-│ └── test_weather_system.py
-├── run.py
-├── README.md
-└── requirements.txt
-
 ## Configuration Options
 - `API_KEY`: Your OpenWeatherMap API key
 - `CITIES`: List of cities to monitor
